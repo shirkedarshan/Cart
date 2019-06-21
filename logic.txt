@@ -1,0 +1,21 @@
+Logic
+
+
+
+user id= pkey
+
+product id=default 0[secondary key]
+on clicking add to cart assign 
+
+
+
+<script src="jquery.js">
+$(document).ready(function(){
+$("#$row['descr']").click(function(){
+	var str=$("$row['descr']").text();
+	alert(str);
+})
+})
+
+</script>
+
